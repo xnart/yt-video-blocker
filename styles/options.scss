@@ -1,0 +1,45 @@
+@import "modules/reset";
+@import "modules/variables";
+@import "modules/grid";
+@import "modules/layout";
+@import "modules/utilities";
+
+.heading {
+  margin: 1em auto;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+
+  h1 + .lead {
+    margin-top: 0.2em;
+  }
+}
+
+.content {
+  min-height: 300px;
+}
+
+.btn {
+  background: none;
+  border: none;
+  display: inline-block;
+  cursor: pointer;
+  padding: 0.5em 1.5em;
+  background: $brand-primary;
+  color: $white;
+  font-weight: $headings-font-weight;
+  border-radius: 2px;
+  outline: none;
+  font-size: 1em;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background: $brand-secondary;
+}
+
+textarea {
+  color: #000000 !important;
+  padding: 2px;
+  border: 1px black solid;
+  background-color: #fff !important;
+}
