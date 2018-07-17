@@ -9,7 +9,7 @@ Lemonrice's video blocker is not working for Firefox anymore. It has not much fu
 # Examples
 
 I want to block : Adnan Oktar
-
+    
 Should add this : Adnan Oktar
 
 ---

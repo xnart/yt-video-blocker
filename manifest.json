@@ -9,7 +9,6 @@
   "default_locale": "en",
   "background": {
     "scripts": [
-      "scripts/livereload.js",
       "scripts/background.js"
     ]
   },
