@@ -8,14 +8,17 @@ Lemonrice's video blocker is not working for Firefox anymore. It has not much fu
 
 # Examples
 
-I want to block : Adnan Oktar
+To block : Adnan Oktar
     
-Should add this : Adnan Oktar
+To add : Adnan Oktar
 
 ---
 
-I want to block : Jahrein
+To block : Jahrein
 
-Should add this : jahre[iİ]n  // No need to put ignore case flag. Extension has already.
+To add : jahrein  // No need to put ignore case flag. Extension has already.
 
 
+---
+
+Also, feel free to use regular expressions.
