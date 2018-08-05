@@ -1,4 +1,4 @@
-let storage = browser.storage.local;
+let storage = browser.storage.sync || browser.storage.local;
 
 
 let pageManager = document.querySelector('ytd-page-manager');

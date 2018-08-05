@@ -1,4 +1,4 @@
-let storage = browser.storage.local;
+let storage = browser.storage.sync || browser.storage.local;
 
 browser.runtime.onMessage.addListener(function (request) {
   if (request.action === 'update-options') {

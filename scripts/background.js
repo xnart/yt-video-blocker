@@ -1,4 +1,5 @@
-let storage = browser.storage.local;
+let storage = browser.storage.sync || browser.storage.local;
+
 
 browser.runtime.onMessage.addListener(async (request) => {
   if (request.action === 'perform-save') {

@@ -1,6 +1,6 @@
 {
   "name": "Youtube Video Blocker",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "manifest_version": 2,
   "icons": {
     "16": "icons/icon-16.png",
@@ -41,5 +41,10 @@
     },
     "default_title": "Block Keyword",
     "default_popup": "popup.html"
+  },
+  "applications": {
+    "gecko": {
+      "id": "{e2c02dbd-46d9-4bef-8bae-9be5d936dce5}"
+    }
   }
 }
