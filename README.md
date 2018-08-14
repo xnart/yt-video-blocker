@@ -1,4 +1,6 @@
-# Youtube Video Blocker
+[![codebeat badge](https://codebeat.co/badges/e6c138c9-a519-43c9-8cfc-44688f1f398f)](https://codebeat.co/projects/github-com-xnart-yt-video-blocker-master)
+
+# Youtube Video Blocker 
 
 It's yet another video blocker for Firefox but a working one! It is listed at :
 
