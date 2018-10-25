@@ -5,7 +5,7 @@ Use new uBlock features instead of a new addon. For example :
 `youtube.com##[class*=video-renderer]:has-text(/celal şengör|jahrein/iu)`
 
 
-~~# Youtube Video Blocker 
+<del># Youtube Video Blocker 
 
 It's yet another video blocker for Firefox but a working one! It is listed at :
 
@@ -28,4 +28,4 @@ To add : jahrein  // No need to put ignore case flag. Extension has already.
 
 ---
 
-Also, feel free to use regular expressions.~~
+Also, feel free to use regular expressions</del>
